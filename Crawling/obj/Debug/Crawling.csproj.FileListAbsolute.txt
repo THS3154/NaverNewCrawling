@@ -1,0 +1,13 @@
+C:\Users\dldyd\Desktop\c#\Crawling\Crawling\bin\Debug\Crawling.exe.config
+C:\Users\dldyd\Desktop\c#\Crawling\Crawling\bin\Debug\Crawling.exe
+C:\Users\dldyd\Desktop\c#\Crawling\Crawling\bin\Debug\Crawling.pdb
+C:\Users\dldyd\Desktop\c#\Crawling\Crawling\bin\Debug\WebDriver.dll
+C:\Users\dldyd\Desktop\c#\Crawling\Crawling\bin\Debug\WebDriver.Support.dll
+C:\Users\dldyd\Desktop\c#\Crawling\Crawling\obj\Debug\Crawling.csproj.AssemblyReference.cache
+C:\Users\dldyd\Desktop\c#\Crawling\Crawling\obj\Debug\Crawling.Form1.resources
+C:\Users\dldyd\Desktop\c#\Crawling\Crawling\obj\Debug\Crawling.Properties.Resources.resources
+C:\Users\dldyd\Desktop\c#\Crawling\Crawling\obj\Debug\Crawling.csproj.GenerateResource.cache
+C:\Users\dldyd\Desktop\c#\Crawling\Crawling\obj\Debug\Crawling.csproj.CoreCompileInputs.cache
+C:\Users\dldyd\Desktop\c#\Crawling\Crawling\obj\Debug\Crawling.csproj.CopyComplete
+C:\Users\dldyd\Desktop\c#\Crawling\Crawling\obj\Debug\Crawling.exe
+C:\Users\dldyd\Desktop\c#\Crawling\Crawling\obj\Debug\Crawling.pdb
